@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+  background-image: url(googleanimation.gif);
+  bgsound:url(voice2.mp3);
+  background-size: cover;
+  background-attachment: fixed;
+}
+* {
+  font-family: 'Epilogue', sans-serif;
+.nav-bar {
+  height: 70px;
+  background: #262626;
+}
+
+.content {
+ background: white;
+ width: 50%;
+ padding: 40px;
+ margin: 100px auto;
+
+}
+p {
+  font-size: 25px;
+  color: black;
+}
